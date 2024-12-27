@@ -1,4 +1,5 @@
 # Farmer
-This is my first Git repository 
+
+This is my first Git repository
 <br/>
-Author : Shubh mittal
+Author : Shubh (Coder)
